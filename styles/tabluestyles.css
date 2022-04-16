@@ -1,0 +1,49 @@
+<!--Jake Fuhriman (4-15-2022)-->
+
+.tableutop{
+    top: 5px;
+    left:5px;
+    right: 5px;
+    height: 300px;
+}
+
+h1{
+    color: aquamarine;
+    font-size: 40px;
+}
+
+p{
+    font-size: 30px;
+    color: white
+}
+
+body{
+    font-family: inherit;
+    background-color: grey
+}
+
+.tableubody{
+    top: 314px;
+    bottom:64px;
+    left: 5px;
+    right: 5px;
+}
+
+.tableufooter{
+    bottom: 3px;
+    height:20px;
+    left: 5px;
+    font-size: 15px;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+a{
+    color:azure;
+    font-size: 30px;
+}
+
+a:visited{
+    color:aquamarine
+}

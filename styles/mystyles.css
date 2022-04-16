@@ -1,0 +1,43 @@
+body{
+    font-family: sans-serif;
+}
+
+li{
+    font-family: inherit;
+    font-size: 25px; 
+}
+
+a{
+    color:blue;
+    text-decoration: underline;
+    font-size: 25px;
+}
+
+a:visited {
+    color:lightcoral;
+}
+
+h1{
+    font-family: serif;
+    color: floralwhite;
+}
+
+.Res{
+    color:black
+}
+
+.mySub{
+    font-size: 25px;
+    font-family: serif;
+}
+
+h2{
+    font-family: serif;
+    font-size: 45px;
+    color: black
+}
+
+h3{
+    font-family: serif;
+    color: black
+}
